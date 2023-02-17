@@ -18,7 +18,7 @@ The source code is available in the '/src' folder.
 
 ### Documentation :
 
-	 - the documentation realized with Doxygen is available in the directory '/doc'.
+	 - the documentation realized with Doxygen is available in the directory '/documentation'.
 
 
 This code has been realized by Nazim KESKES in September 22, 2022.
